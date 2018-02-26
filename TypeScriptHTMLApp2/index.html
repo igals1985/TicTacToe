@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Tic Tac Toe</title>
+    <script src="app.js"></script>
+    <script src="Game.js"></script>
+</head>
+<style>
+    h1 {
+        text-align: center;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        font-family: 'Indie Flower', cursive;
+        font-size: 85px;
+        color: deepskyblue;
+    }
+
+    div {
+        text-align: center;
+        text-align: center;
+        margin-left:40%;
+    }
+    #reset {
+        margin-left: 40%;
+        width: 200px;
+        height: 50px;
+        font-size: 1.5em;
+        background-color: red;
+    }
+    body {
+        background-image: url(ticTac.jpg);
+        background-repeat: repeat;
+        background-color: hsla(0,0%,100%,0.70);
+        background-blend-mode: overlay;
+    }
+
+    .cell {
+        width: 85px;
+        height: 85px;
+        border: 7px solid deepskyblue;
+        background: #FFFFFF;
+        font-size: 46pt;
+        font-family: arial;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+    }
+
+        .cell:hover {
+            background: #C2DBFC;
+            text-align: center;
+        }
+</style>
+<html>
+<body>
+    <h1>Tic Tac Toe</h1>
+    <div>
+        <table>
+            <tr>
+                <td id="cell11" class="cell">&nbsp;</td>
+                <td id="cell12" class="cell">&nbsp;</td>
+                <td id="cell13" class="cell">&nbsp;</td>
+            </tr>
+            <tr>
+                <td id="cell21" class="cell">&nbsp;</td>
+                <td id="cell22" class="cell">&nbsp;</td>
+                <td id="cell23" class="cell">&nbsp;</td>
+            </tr>
+            <tr>
+                <td id="cell31" class="cell">&nbsp;</td>
+                <td id="cell32" class="cell">&nbsp;</td>
+                <td id="cell33" class="cell">&nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    <br /><br />
+    <input id="reset" type="button" value="New Game" />
+    <br /><br />
+</body>
+</html>

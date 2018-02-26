@@ -1,0 +1,7 @@
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.pdb
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache

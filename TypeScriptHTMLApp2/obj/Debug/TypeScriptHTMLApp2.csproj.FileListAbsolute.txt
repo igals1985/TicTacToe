@@ -1,0 +1,7 @@
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.csprojResolveAssemblyReference.cache
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll.config
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.dll
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp1.pdb
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.csproj.CoreCompileInputs.cache
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\igals1985\Source\Repos\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp1.pdb
